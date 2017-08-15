@@ -54,6 +54,11 @@ Once you have installed and activated WooCommerce, you may install and activate 
 2. Delete plugin through the 'Plugins' menu in WordPress
 
 
-== Changelog ==
+Nota per commercianti italiani
+==============================
+link per del plugin gia' zippato pronto per essere importato nel tuo sito wordpress: http://bit.ly/dinastycoinWPWooCommerce.
+Prima di importarlo assicurati di aver installato sullo stesso server dove gira il tuo sito wordpress anche i programmi dinastycoind e walletd adatti al sistema operativo che stai usando. 
+i programmi binari gia' compilati per windows e linux li puoi trovare nel sito dinastycoin.com nella sezione download.
+Dinasty of Freedom offre aai commercianti anche un negozio on line gia' pronto sulla propria piattaforma ecommerce. basta solo inserire gli articoli e si e' pronti a vendere. Il servizio e' gratuito e puo' essere usato in alternativa al proprio sito di ecommerce. Viene cosi' garantia la visibilit' nazionale e internazionale in modo del tutto gratuito
 
 none
